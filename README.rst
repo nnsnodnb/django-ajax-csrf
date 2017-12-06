@@ -3,6 +3,19 @@ django-ajax-csrf
 
 * Requires jQuery javascript library
 
+Installation
+------------
+
+.. code:: bash
+
+    $ pip install django-ajax-csrf
+
+.. code:: python
+
+    INSTALLED_APPS += (
+        'django_ajax',
+    )
+
 Usage::
 
     {% load csrf_tags %}
