@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-ajax-csrf',
-    version='1.0.1',
+    version='1.0.2',
     description='Django app - bundle csrf token additioner for JavaScript',
     long_description=open('README.rst', 'r').read(),
     classifiers=[
