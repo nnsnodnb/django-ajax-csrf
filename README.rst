@@ -1,11 +1,9 @@
 django-ajax-csrf
 ================
 
-.. image:: https://badge.fury.io/py/django-ajax-csrf.svg
-   :target:: https://pypi.python.org/pypi/django-ajax-csrf
+.. image:: https://img.shields.io/pypi/v/django-ajax-csrf.svg
+   :target: https://pypi.python.org/pypi/django-ajax-csrf
 .. image:: https://img.shields.io/pypi/pyversions/django-ajax-csrf.svg
-   :target:: https://pypi.python.org/pypi/django-ajax-csrf
-.. image:: https://img.shields.io/pypi/wheel/django-ajax-csrf.svg
    :target: https://pypi.python.org/pypi/django-ajax-csrf
 .. image:: https://img.shields.io/pypi/format/django-ajax-csrf.svg
    :target: https://pypi.python.org/pypi/django-ajax-csrf
